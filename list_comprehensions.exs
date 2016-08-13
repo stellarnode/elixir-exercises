@@ -12,7 +12,6 @@ defmodule Comprehensions do
     check = for y <- 2..x, rem(x, y) == 0, do: y
     length(check) == 1
   end
-
 end
 
 defmodule Taxes do

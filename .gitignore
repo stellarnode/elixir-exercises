@@ -1,2 +1,4 @@
 *.beam
 /spawn/*.beam
+.DS_Store
+*.pptx
